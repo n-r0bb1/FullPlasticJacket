@@ -7,6 +7,9 @@ A top-down roguelike bullet shooter built in C# using SDL2 via Silk.NET.
 Survive endless waves of enemies in a single arena. Every enemy you kill brings you closer to the next wave — and each wave hits harder than the last. Between waves, choose one of three upgrades to build your character.
 
 The game ends when your HP hits zero.
+## Gameplay demo
+
+![Gameplay demo](Demo/FullPlasticJacketDemo.mp4)
 
 ## Controls
 
@@ -16,7 +19,7 @@ The game ends when your HP hits zero.
 | Mouse | Aim |
 | Left Click | Shoot |
 | `R` | Restart (after game over) |
-| `Esc` | Quit |
+| Close window | Quit |
 
 ## Upgrades
 
