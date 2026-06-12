@@ -40,7 +40,6 @@ I used **Claude Code (Claude Sonnet 4.6)** to help with the following:
 ## Assets
 
 The three game sprites were generated using ChatGPT image generation tools.
-
-![Arena](assets/arena.png)
-![Player](assets/player.png)
-![Enemy](assets/enemy.png)
+<img width="1024" height="1024" alt="player" src="https://github.com/user-attachments/assets/63945fa4-0c20-4425-8f0c-ab839264150b" />
+<img width="1024" height="1024" alt="enemy" src="https://github.com/user-attachments/assets/e67df39c-023c-49f2-9a57-97fe0476fd39" />
+<img width="593" height="612" alt="arena" src="https://github.com/user-attachments/assets/c3c83cea-69e2-4df2-bde0-07ab163a338a" />
