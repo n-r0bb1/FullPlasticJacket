@@ -9,7 +9,7 @@ Survive endless waves of enemies in a single arena. Every enemy you kill brings 
 The game ends when your HP hits zero.
 ## Gameplay demo
 
-![Gameplay demo](Demo/FullPlasticJacketDemo.mp4)
+https://github.com/user-attachments/assets/9ee8ed34-6b69-4b2a-8b43-5086e8fc5813
 
 ## Controls
 
